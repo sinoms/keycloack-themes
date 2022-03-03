@@ -1,0 +1,32 @@
+.login-pf body {
+  background: none;
+  background-color: #e9ecef;
+  border-top: 0;
+  color: #666;
+  padding: 20px;
+}
+
+.button {
+  background-image: none;
+}
+
+.card-pf {
+  border: 0px;
+  background-color: #fff;
+}
+
+.required {
+  color: #dc3545;
+}
+
+div.kc-logo-text {
+  background-image: none;
+  background-repeat: none;
+  height: 30px;
+  width: 300px;
+  margin: 0 auto;
+}
+div.kc-logo-text span {
+  display: block;
+  color: #495057;
+}
